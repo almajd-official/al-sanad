@@ -1,1 +1,1 @@
-# al-sanad
+# Official Repository of Al-Majd
